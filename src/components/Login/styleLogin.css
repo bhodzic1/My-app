@@ -1,0 +1,76 @@
+.containerDiv {
+    width: 30%;
+    height: 320px;
+    margin-left: 35%;
+    margin-top: 10%; 
+}
+
+.containerLogin {
+    width: 100%;
+    height: 280px;
+    margin-top: 10%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.labelLogin {
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 10%;
+    padding-top: 10px;
+}
+
+.inputLogin {
+    width: 80%;
+    margin-left: 10%;
+    padding: 8px;
+    font-size: 14px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+.buttonLogin {
+    width: 80%;
+    margin-left: 10%;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+    background-color: #4CAF50;
+    border-radius: 5px;
+    border: 0.5px solid #41a350;
+    padding: 8px;
+}
+
+.buttonLogin:hover {
+    background-color: #41a350;
+    border-color: #1d421e;
+}
+
+.buttonDiv {
+    padding-top: 20px;
+}
+
+.usernameDiv {
+    padding-top: 10px;
+}
+
+.notRegisteredDiv {
+    height: 60px;
+    margin-top: 5%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.notRegistered {
+    padding-top: 10px;
+    margin-left: 10%;
+    font-size: 14px;
+}
+
+.registerLink {
+    color: blue;
+}
