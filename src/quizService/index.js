@@ -1,38 +1,31 @@
 const qBank = [
     {
       question:
-        "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+        "Virgin Trains, Virgin Atlantic i Virgin Racing su kompanije u vlasništvu koje poznate ličnosti?",
       answers: ["Richard Branson", "Alan Sugar", "Donald Trump", "Bill Gates"],
       correct: "Richard Branson",
       questionId: "099099"
     },
     {
       question:
-        'Where is the train station "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch"?',
-      answers: ["Wales", "Moldova", "Czech Republic", "Denmark"],
-      correct: "Wales",
+        'Gdje se nalazi željeznička stanica "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch"?',
+      answers: ["Vels", "Moldavija", "Češka", "Danska"],
+      correct: "Vels",
       questionId: "183452"
     },
     {
-      question:
-        "Which company did Valve cooperate with in the creation of the Vive?",
-      answers: ["HTC", "Oculus", "Google", "Razer"],
-      correct: "HTC",
-      questionId: "267908"
-    },
-    {
-      question: "What's the name of Batman's  parents?",
+      question: "Kako se zovu Betmenovi roditelji?",
       answers: [
-        "Thomas & Martha",
-        "Joey & Jackie",
-        "Jason & Sarah",
-        "Todd & Mira"
+        "Thomas i Martha",
+        "Joey i Jackie",
+        "Jason i Sarah",
+        "Todd i Mira"
       ],
-      correct: "Thomas & Martha",
+      correct: "Thomas i Martha",
       questionId: "333247"
     },
     {
-      question: "What is the most common surname Wales?",
+      question: "Koje je najčešće prezime u Velsu?",
       answers: ["Jones", "Williams", "Davies", "Evans"],
       correct: "Jones",
       questionId: "496293"
@@ -94,21 +87,21 @@ const qBank = [
       questionId: "1174154"
     },
     {
-      question: "Area 51 is located in which US state?",
+      question: "Area 51 se nalazi u kojoj saveznoj državi?",
       answers: ["Nevada", "Arizona", "New Mexico", "Utah"],
       correct: "Nevada",
       questionId: "1226535"
     },
     {
-      question: "How would one say goodbye in Spanish?",
+      question: "Kako se na španskom kaže doviđenja?",
       answers: ["Adiós", " Hola", "Au Revoir", "Salir"],
       correct: "Adiós",
       questionId: "1310938"
     },
     {
-      question: "What is the largest organ of the human body?",
-      answers: ["Skin", "Heart", "large Intestine", "Liver"],
-      correct: "Skin",
+      question: "Koji je najveći organ u ljudskom organizmu?",
+      answers: ["Koža", "Srce", "Jezik", "Butni mišić"],
+      correct: "Koža",
       questionId: "1436873"
     },
     {
@@ -118,7 +111,7 @@ const qBank = [
       questionId: "1515110"
     },
     {
-      question: "On a dartboard, what number is directly opposite No. 1?",
+      question: "Na pikado tabli, koji broj je suprotan broju 1?",
       answers: ["19", "20", "12", "15"],
       correct: "19",
       questionId: "1642728"
@@ -132,7 +125,7 @@ const qBank = [
     },
     {
       question:
-        "What word represents the letter 'T' in the NATO phonetic alphabet?",
+        "Koju riječ predstavlja slovo T u NATO skraćenici?",
       answers: ["Tango", "Target", "Taxi", "Turkey"],
       correct: "Tango",
       questionId: "1822532"
